@@ -11,7 +11,5 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - os
-  - subprocess
   - sklearn
   - math
