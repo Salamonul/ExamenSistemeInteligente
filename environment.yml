@@ -11,6 +11,6 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - conda:
+  - pip:
     - sklearn
     - math
