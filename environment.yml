@@ -14,4 +14,4 @@ dependencies:
   - pip
   - pip:
     - scikit-learn
-    - math
+    - Mathematics-Module
